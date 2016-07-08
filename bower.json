@@ -1,0 +1,23 @@
+{
+  "name": "TestPrivateBower",
+  "description": "A test of Esendex's private bower server",
+  "main": "test.css",
+  "keywords": [
+    "[\"Test\"",
+    "\"Private\"",
+    "\"Bower\"]"
+  ],
+  "authors": [
+    "George Frost"
+  ],
+  "license": "None",
+  "homepage": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
